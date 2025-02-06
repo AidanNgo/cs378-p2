@@ -7,7 +7,7 @@ const MenuHeader = () => {
 
         <div>
             <div className="logo col-12 d-flex align-items-center justify-content-center">
-                <img src="/images/Titans-Cafe.png" alt="cafe logo" id="cafe-icon"/>
+                <img src={`./images/Titans-Cafe.png`} alt="cafe logo" id="cafe-icon"/>
             </div>
 
             <div className="col d-flex align-items-center justify-content-center" id="motto-one">
