@@ -24,7 +24,7 @@ const MenuItem = ({ title, description, imageName, price }) => {
               {description}
             </div>
 
-            <div className="row d-flex align-items-center justify-content-center">
+            <div className="row d-flex align-items-end justify-content-center">
               <div className="col-7 price">
                 ${price}
               </div>
